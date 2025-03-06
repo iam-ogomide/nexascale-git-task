@@ -1,1 +1,1 @@
-"This is the first version from the edit-text branch." 
+This is the final merged version of conflict.txt.
